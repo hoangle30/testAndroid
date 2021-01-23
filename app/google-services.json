@@ -1,0 +1,46 @@
+{
+//  "project_info": {
+//    "project_number": "137931338518",
+//    "firebase_url": "https://test-tracking-e4047.firebaseio.com",
+//    "project_id": "test-tracking-e4047",
+//    "storage_bucket": "test-tracking-e4047.appspot.com"
+  "project_info": {
+    "project_number": "599268486181",
+    "firebase_url": "https://usertracking-cfb5e.firebaseio.com",
+    "project_id": "usertracking-cfb5e",
+    "storage_bucket": "usertracking-cfb5e.appspot.com"
+
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137931338518:android:879ee0028f1c03bb471637",
+        "android_client_info": {
+          "package_name": "com.example.testtracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137931338518-rdceeqs5be2ncu545dro2g2ta24l633b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvPhKm77bTogS_GRwBoJcB86LZfOp6-iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137931338518-rdceeqs5be2ncu545dro2g2ta24l633b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
